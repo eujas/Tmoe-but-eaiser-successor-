@@ -1,0 +1,1 @@
+sudo . <(curl -L git.io/linux.sh)
